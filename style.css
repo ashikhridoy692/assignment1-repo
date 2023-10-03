@@ -1,0 +1,124 @@
+.left-banner h1{
+font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+color: black;
+font-size: 60px;
+font-style: normal;
+padding-left: 80px;
+width: 100%;
+
+}
+#banner button{
+    padding: 20px 25px;
+    border: none;
+    cursor: pointer;
+}
+#banner{
+    height: 700px;
+    background-color: rgba(229, 84, 115, 0.10);
+    display: flex;
+    
+    
+}
+.left-banner p{
+    padding-left: 80px;
+    
+    
+}
+.left-banner button{
+padding: 15px 10px;
+margin-left: 78px;
+border: none;
+background-color: rgba(220, 9, 97, 0.94);
+}
+.right-banner img{
+    height: 700px;
+    margin-left: 120px;
+    
+}
+.head-banner{
+    color: #272727;
+   text-align: center;
+    background: #FFF;
+    font-size: 20px;
+    height: 700px;
+   
+}
+
+ .emu-banner{
+    width: 800px;
+    height: 600px;
+    
+ } 
+ .ashik-banner{
+    color: #272727;
+        text-align: center;
+        background: #FFF;
+        font-size: 20px;
+        height: 200px;
+ }
+
+#blog{
+    display: flex;
+    justify-content: space-between;
+   
+}
+#finish{
+    background-image: url(./image/Rectangle\ 9.png);
+   height: 500px;
+   background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
+.er h1{
+justify-content: center;
+align-items: center;
+text-align: center;
+
+}
+.er h3{
+justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+#finish {
+    background-image: linear-gradient(to right, rgba(117, 214, 199, 0.592), rgba(255, 252, 221, 0.565)), url(./image/Rectangle\ 9.png);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: 150px 0;
+    padding-top: 200px;
+
+}
+
+.as {
+    padding: 20px 400px;
+    border: none;
+    cursor: pointer;
+
+    margin-left: 250px;
+    padding-right: 350px;
+}
+
+.qe {
+    padding: 15px 20px;
+    margin-left: 10px;
+    cursor: pointer;
+    background-color: rgba(220, 16, 166, 0.778);
+    border: none;
+}
+#ui {
+    background-color: rgba(239, 195, 195, 0.81);
+    height: 600px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+   padding-top: 150px;
+   margin-bottom: 150px;
+    
+}
+#ui h1{
+font-size: 25px;
+font-family: cursive;
+color: #f1711ce8;
+}
